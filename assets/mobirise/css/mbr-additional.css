@@ -683,6 +683,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -2106,20 +2107,6 @@ body {
 .cid-rjAU8ur3Iz .mbr-text {
   color: #767676;
   text-align: right;
-}
-.cid-rgVbhlNJWP {
-  padding-top: 75px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rgVbhlNJWP .mbr-section-subtitle {
-  color: #767676;
-}
-#custom-html-m {
-  /* Type valid CSS here */
-}
-#custom-html-m .my-image {
-  width: 100%;
 }
 .cid-rgVbzqN8BG {
   padding-top: 90px;
